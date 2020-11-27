@@ -1,0 +1,2 @@
+export const ADD_TODAYS_JOURNAL = "ADD_TODAYS_JOURNAL"
+export const EDIT_JOURNAL = "EDIT_JOURNAL"
